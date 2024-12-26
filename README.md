@@ -1,5 +1,5 @@
 # Hello, World! 🌎✨  
-**Welcome to my GitHub corner!** I'm [Your Name], a curious learner venturing into the fascinating realm of **data science**. My journey has just begun, and I’m excited to share it with you!
+**Welcome to my GitHub corner!** I'm Mahitha, a curious learner venturing into the fascinating realm of **data science**. My journey has just begun, and I’m excited to share it with you!
 
 ---
 
@@ -23,11 +23,6 @@ As a beginner, I aim to document my learning journey here. Look out for:
 - **Exploratory Data Analysis** projects  
 - **Visual Dashboards**  
 - Fun experiments with **datasets**  
-
----
-
-## 💡 Fun Fact  
-I believe every dataset has a story waiting to be told—stay tuned while I learn to be its storyteller! 📖✨  
 
 ---
 
