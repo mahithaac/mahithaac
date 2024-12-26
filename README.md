@@ -1,4 +1,4 @@
-# Hello, World! 🌎✨  
+# Hey, I'm Mahitha!! 🌎✨  
 **Welcome to my GitHub corner!** I'm Mahitha, a curious learner venturing into the fascinating realm of **data science**. My journey has just begun, and I’m excited to share it with you!
 
 ---
